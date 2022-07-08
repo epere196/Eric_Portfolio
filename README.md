@@ -1,4 +1,4 @@
-# Eric_Portfolio
+# Eric's_Portfolio
 Swift Course Portfolio
 
 # Project 1: Apple Pie
